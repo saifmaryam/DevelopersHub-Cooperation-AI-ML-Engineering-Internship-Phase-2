@@ -127,8 +127,9 @@ The final tagger returns the **top 3 most probable tags** with confidence scores
 
 **Author:** **(Maryam Saif)**
 
-AI/ML Engineering Intern @ DevelopersHub Corporation · Advanced Task Set, Phase 2
-📅 Due 14 July 2026
+**AI/ML Engineering Intern @ DevelopersHub Corporation · Advanced Task Set, Phase 2**
+
+**📅 Due 14 July 2026**
 
 ⭐ *If you're a reviewer skimming this — Task 4 and Task 5's "Engineering Notes" sections are probably the most interesting things here.*
 
